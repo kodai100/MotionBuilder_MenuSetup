@@ -3,6 +3,9 @@
 This tool can automatucally generate menu bar for MotionBuilder.
 You have only to specify your script folder path and put python contents in the folder.
 
+![thumbnail](https://github.com/kodai100/MotionBuilder_MenuSetup/blob/master/thumbnail.png)
+
+
 # Sample 
 * Put items in `Scripts` to `C:\\C:\\Users\{user}\Documents\MB\{MB_version}\config\Scripts`
 * Put items in `PythonStartup` to `C:\\C:\\Users\{user}\Documents\MB\{MB_version}\config\PythonStartup`
